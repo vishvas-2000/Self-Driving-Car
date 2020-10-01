@@ -1,1 +1,1 @@
-Its a game like arena in which a car(png image) runs on a race track(png). Drives
+Its a game like arena in which a car(png image) runs on a race track(png). In the bot part agent have taken the path which is brown in colour and the obstacle is white in colour. So i have the distances of car from this white pixel surrounding the to the neural network to learn on.  
